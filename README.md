@@ -10,9 +10,6 @@ The Personal To-Do List Manager is a Java-based desktop application designed to 
 - **Sort Tasks**: Sort tasks by priority or due date.
 - **Categorize Tasks**: Group tasks into categories such as "Work", "Personal", or "Other".
 
-### Data Persistence
-- Save tasks to a file and reload them later, ensuring no data is lost when the application is closed.
-
 ### Graphical User Interface
 - Built using Swing components like `JTable` and `JComboBox` for an interactive and intuitive experience.
 
